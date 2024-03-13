@@ -1,0 +1,67 @@
+QPushButton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+    border-radius: 5px;
+}
+#widget_3 {
+    background-color: #763C00; /* Dark blue */
+    color: white;
+    padding: 10px;
+}
+
+#widget_3 QLabel {
+    color: #CD6301; /* Blue */
+    font-size: 16px;
+}
+
+#widget_3 QPushButton {
+    background-color: #FFBD59; /* Blue */
+    color: white;
+    padding: 8px 16px;
+    font-size: 14px;
+    border: 2px solid #FFBD59; /* Blue */
+    border-radius: 5px;
+}
+
+#widget_3 QPushButton:hover {
+    background-color: #FFD98F; /* Darker blue on hover */
+}
+
+#widget_10 {
+    background-color: #763C00; /* Dark blue */
+    color: white;
+    padding: 10px;
+}
+
+#widget_10 QLabel {
+    color: #CD6301; /* Blue */
+    font-size: 16px;
+}
+
+#widget_10 QPushButton {
+    background-color: #FFBD59; /* Blue */
+    color: white;
+    padding: 8px 16px;
+    font-size: 14px;
+    border: 2px solid #FFBD59; /* Blue */
+    border-radius: 5px;
+}
+
+#widget_10 QPushButton:hover {
+    background-color: #FFD98F; /* Darker blue on hover */
+}
+
+QLineEdit{
+    background-color: #FFD98F; 
+    border: 1px solid #CD6301;
+    border-radius: 10px; 
+    padding: 5px;
+}

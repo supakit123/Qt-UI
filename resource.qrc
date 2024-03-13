@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image/settings-12-64.png</file>
+    <file>image/collaborator-64.png</file>
+    <file>image/settings-9-64.png</file>
+    <file>image/save-64.png</file>
+    <file>image/dashboard-64.ico</file>
+    <file>image/logo.png</file>
+  </qresource>
+</RCC>
